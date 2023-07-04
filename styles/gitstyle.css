@@ -1,0 +1,11 @@
+.blog{
+    background-color: tomato;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 10px;
+    border: 5px solid yellowgreen;
+}
+.head{
+    text-align: center;
+    color: green;
+}
